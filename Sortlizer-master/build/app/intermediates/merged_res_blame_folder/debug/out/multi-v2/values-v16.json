@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.programmingtech.sortlizer.app-mergeDebugResources-11:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shehzaan\\.gradle\\caches\\transforms-3\\f5c8b63ebb765160636c44b8b7eead2a\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

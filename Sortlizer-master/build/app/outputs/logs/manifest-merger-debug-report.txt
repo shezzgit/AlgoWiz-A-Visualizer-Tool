@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:shared_preferences_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_statusbarcolor_ns] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_statusbarcolor_ns\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_beep] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_beep\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_keyboard_visibility] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_keyboard_visibility\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_native_splash] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\44d3e167b917bf8cd08cb5adeaa055be\transformed\window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\shehzaan\.gradle\caches\transforms-3\964d1c80b9408f9906c634dbf1e530d6\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\08e88d40c581055840a6d55e18fba8b8\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\266a47ca4a691691052925f78b437145\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\6ca45f06fe9379f48aae01333add2a2a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\9f4e250ae96ac3f6f3990f89302dae83\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\e6259016508cf834cdbde7bc874ae84b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\shehzaan\.gradle\caches\transforms-3\c5a2e4059691abf162364b596d46ad5e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\e20a416861641ac3a97b963d34e206d5\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\shehzaan\.gradle\caches\transforms-3\11d71db2f719a08cf74f58db5adfaf2a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\f817ec0e5586962c4881505c89a0394e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shehzaan\.gradle\caches\transforms-3\360c631242c9dc2f7a42c944df6d7e9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\ebc3375b5ac8cd0f0d6d17122061a399\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\a9104d1e9e025578f5ce58c8d6d588fd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\dbd662d2af6a77f1910a8e309235f52b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\61030cb3c20b52611a405d87210eb3fa\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\0589233740e425f32580814aaeabd095\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:8:5-42:19
+MERGED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shehzaan\.gradle\caches\transforms-3\360c631242c9dc2f7a42c944df6d7e9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shehzaan\.gradle\caches\transforms-3\360c631242c9dc2f7a42c944df6d7e9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:9:9-34
+	android:icon
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:10:9-43
+activity#com.programmingtech.sortlizer.MainActivity
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:11:9-36:20
+	android:launchMode
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:13:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:15:13-163
+	android:theme
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:name
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:12:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:24:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:34:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:39:9-41:33
+	android:value
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml:40:13-44
+uses-sdk
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_statusbarcolor_ns] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_statusbarcolor_ns\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_statusbarcolor_ns] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_statusbarcolor_ns\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_beep] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_beep\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_beep] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_beep\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_keyboard_visibility] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_keyboard_visibility\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_keyboard_visibility] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_keyboard_visibility\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\44d3e167b917bf8cd08cb5adeaa055be\transformed\window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\44d3e167b917bf8cd08cb5adeaa055be\transformed\window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\shehzaan\.gradle\caches\transforms-3\964d1c80b9408f9906c634dbf1e530d6\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\shehzaan\.gradle\caches\transforms-3\964d1c80b9408f9906c634dbf1e530d6\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\08e88d40c581055840a6d55e18fba8b8\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\08e88d40c581055840a6d55e18fba8b8\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\266a47ca4a691691052925f78b437145\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\266a47ca4a691691052925f78b437145\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\6ca45f06fe9379f48aae01333add2a2a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\6ca45f06fe9379f48aae01333add2a2a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\9f4e250ae96ac3f6f3990f89302dae83\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\9f4e250ae96ac3f6f3990f89302dae83\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\e6259016508cf834cdbde7bc874ae84b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\e6259016508cf834cdbde7bc874ae84b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\shehzaan\.gradle\caches\transforms-3\c5a2e4059691abf162364b596d46ad5e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\shehzaan\.gradle\caches\transforms-3\c5a2e4059691abf162364b596d46ad5e\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\e20a416861641ac3a97b963d34e206d5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\e20a416861641ac3a97b963d34e206d5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\shehzaan\.gradle\caches\transforms-3\11d71db2f719a08cf74f58db5adfaf2a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\shehzaan\.gradle\caches\transforms-3\11d71db2f719a08cf74f58db5adfaf2a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\f817ec0e5586962c4881505c89a0394e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\f817ec0e5586962c4881505c89a0394e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shehzaan\.gradle\caches\transforms-3\360c631242c9dc2f7a42c944df6d7e9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shehzaan\.gradle\caches\transforms-3\360c631242c9dc2f7a42c944df6d7e9b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\ebc3375b5ac8cd0f0d6d17122061a399\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\ebc3375b5ac8cd0f0d6d17122061a399\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\a9104d1e9e025578f5ce58c8d6d588fd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\a9104d1e9e025578f5ce58c8d6d588fd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\dbd662d2af6a77f1910a8e309235f52b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shehzaan\.gradle\caches\transforms-3\dbd662d2af6a77f1910a8e309235f52b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\61030cb3c20b52611a405d87210eb3fa\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\61030cb3c20b52611a405d87210eb3fa\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\0589233740e425f32580814aaeabd095\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\shehzaan\.gradle\caches\transforms-3\0589233740e425f32580814aaeabd095\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:68
+	android:resource
+		ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-65
+	android:name
+		ADDED from [:share] C:\Users\shehzaan\Desktop\Sortlizer-master\Sortlizer-master\build\share\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\shehzaan\.gradle\caches\transforms-3\21598fb13dc82af8a631780b3949370b\transformed\window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.programmingtech.sortlizer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.programmingtech.sortlizer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\shehzaan\.gradle\caches\transforms-3\f5c8b63ebb765160636c44b8b7eead2a\transformed\core-1.10.1\AndroidManifest.xml:26:22-94

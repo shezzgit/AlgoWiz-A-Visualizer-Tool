@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.programmingtech.sortlizer",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "UNIVERSAL",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 2,
+      "versionName": "1.0.18",
+      "outputFile": "resources-universalDebug.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 2,
+      "versionName": "1.0.18",
+      "outputFile": "resources-x86_64Debug.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 2,
+      "versionName": "1.0.18",
+      "outputFile": "resources-armeabi-v7aDebug.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 2,
+      "versionName": "1.0.18",
+      "outputFile": "resources-armeabiDebug.ap_"
+    }
+  ],
+  "elementType": "File"
+}
